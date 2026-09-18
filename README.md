@@ -11,6 +11,7 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+</div>
 ---
 
 ## Overview
@@ -145,6 +146,5 @@ scholar-request/
 - הפרדת קבצים שהועלו לפי `draft/` ו-`final/` לכל משתמש
 
 ---
-</div>
 
 פרויקט גמר — קורס Full Stack React + Node.js
