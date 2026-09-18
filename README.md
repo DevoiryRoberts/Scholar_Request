@@ -1,3 +1,5 @@
+<div align="center">
+    
 # ScholarRequest
 
 **Full Stack Application** לניהול בקשות מענקים לסטודנטים — מהגשת בקשה ועד אישור מנהל.
@@ -143,5 +145,6 @@ scholar-request/
 - הפרדת קבצים שהועלו לפי `draft/` ו-`final/` לכל משתמש
 
 ---
+</div>
 
 פרויקט גמר — קורס Full Stack React + Node.js
